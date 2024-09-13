@@ -1,0 +1,3 @@
+Pillow==8.3.2
+reportlab==3.5.68
+tk==8.6.11
